@@ -1,2 +1,1 @@
-# js-
-just js
+# genAi
